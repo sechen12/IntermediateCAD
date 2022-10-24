@@ -38,14 +38,12 @@ I learned different things while co-making the copter:
 ---
 
 
-## Mount
-
-### Description
+## Spinner
 
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283aa74551e07db3b5a/e/20bbeb02fb36a1a7fb4ec972
 ### Image
-
+![Spinner](https://user-images.githubusercontent.com/112981481/197611531-d8000e6c-523e-41c2-a6bf-4a54baa3eb99.png)
 ### Reflection
 
 ---
