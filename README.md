@@ -27,15 +27,13 @@ In this assignment, me and my partner Anton created a beyblade with instructions
 [The Base in Onshape](h![Beyblade](https://user-images.githubusercontent.com/112981481/197608765-b5a4a8b2-7e46-4a26-a539-bf2ea5bfa7a7.png)
 
 ### Reflection
-
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
+I learned different things while co-making the copter:
 * sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
 * extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
+* how to use a sweep tool
+* connecting the dimensions of the different parts to each other (using variables)
 
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+
 
 ---
 
