@@ -1,7 +1,5 @@
 # IntermediateCAD
 
-We are creating a caster.
-
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
@@ -65,3 +63,20 @@ https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283a
 ![197803001-7f5f2958-1b07-49fa-b6a8-8ac5715567ee](https://user-images.githubusercontent.com/112981481/197854309-095b6066-ba5c-47bc-9284-3c3a79919775.gif)
 ### Reflection
 This part was one of the easiest. I learned what different mate connecters did, but other than that, it was simply the most satifying part of the process.
+
+
+
+## Swing arm
+
+### Description
+
+We created a swing arm in Onshape with instructions and following questions. We had to decide how to create the obect (how to dimension it, when to use constraints, when to sketch and extrude.
+
+### Evidence
+https://cvilleschools.onshape.com/documents/9c866c69f03d5d302710f750/w/20e20d891a22cdb8a4d688cc/e/f2e2f8f8249436b23b88586a
+### Image
+
+### Reflection
+I learned different things while co-making the copter:
+* sketching (shortcut **shift-s**)
+* 
