@@ -6,6 +6,8 @@
 * [Spinner](#Spinner)
 * [Key](#Key)
 * [Assembly](#Assembly)
+* [Swing arm)(#Swing Arm)
+* [Multi-Part Studio](#ulti-Part Studio0
 
 ## Helicopter
 
@@ -80,3 +82,16 @@ I'd learned that drawing the entire object before hand, then dimensioning the sk
 
 
 ## Multi-Part Studio
+
+
+### Description
+
+### Evidence
+https://cvilleschools.onshape.com/documents/d2bb11011fcdfdf5505ac909/w/2cb571cb9a4c5c345fc1531c/e/861727777836dc624088bd8c
+### Image
+![Mulit-PartStudio](https://user-images.githubusercontent.com/112981481/197860579-bd824d10-a0e2-44bf-94d4-dd757ea32778.png)
+### Reflection
+
+
+
+
