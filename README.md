@@ -42,7 +42,7 @@ https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283a
 ### Image
 ![Spinner](https://user-images.githubusercontent.com/112981481/197611531-d8000e6c-523e-41c2-a6bf-4a54baa3eb99.png)
 ### Reflection
-
+I'd mis-dimensioned one sketch, and it threw the entire part off. I learned that when constrained properly, one mis-dimension can make or break the onject. The probelm was easily fixed with a few changes because I'd constrained the dimensions correctly.
 ---
 
 
@@ -53,7 +53,7 @@ https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283a
 ### Image
 ![Key](https://user-images.githubusercontent.com/112981481/197612020-202feb01-f17b-4c26-bdfa-4458e87be5e3.png)
 ### Reflection
-
+While making the key, I realized that you can use simple tools to create a complicated structure. The key, for example, was a linear pattern, some sketches and an extrude.
 ---
 
 
@@ -64,6 +64,6 @@ https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283a
 ### Image
 ![197803001-7f5f2958-1b07-49fa-b6a8-8ac5715567ee](https://user-images.githubusercontent.com/112981481/197854309-095b6066-ba5c-47bc-9284-3c3a79919775.gif)
 ### Reflection
-
+This part was one of the easiest. I learned what different mate connecters did, but other than that, it was simply the most satifying part of the process.
 ---
 
