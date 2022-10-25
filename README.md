@@ -5,8 +5,8 @@ We are creating a caster.
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
-* [Mount](#Mount)
+* [Spinner](#Spinner)
+* [Key](#Key)
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
