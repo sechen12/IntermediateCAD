@@ -18,8 +18,7 @@ In this assignment, me and my partner Anton created a beyblade with instructions
 ](https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283aa74551e07db3b5a/e/ecf2c186399eef371ef2bb3f)
 ### Image
 
-
-[The Base in Onshape](h![Beyblade](https://user-images.githubusercontent.com/112981481/197608765-b5a4a8b2-7e46-4a26-a539-bf2ea5bfa7a7.png)
+![SwingArm](https://user-images.githubusercontent.com/112981481/197858749-c0188a26-fbfb-49a0-88f4-b65734b466fb.png)
 
 ### Reflection
 I learned different things while co-making the copter:
