@@ -6,8 +6,9 @@
 * [Spinner](#Spinner)
 * [Key](#Key)
 * [Assembly](#Assembly)
-* [Swing arm)(#Swing Arm)
-* [Multi-Part Studio](#ulti-Part Studio0
+* [Swing Arm](#Swing Arm)
+* [Multi-Part Studio](#Multi-Part Studio)
+
 
 ## Helicopter
 
