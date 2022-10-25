@@ -7,10 +7,7 @@ We are creating a caster.
 * [Table of Contents](#Table-of-Contents)
 * [Spinner](#Spinner)
 * [Key](#Key)
-* [Fork](#Fork)
-* [Tire](#Tire)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* [Assembly](#Assembly)
 
 ## Helicopter
 
@@ -60,40 +57,13 @@ https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283a
 ---
 
 
-## Tire
-
-### Description
+## Assembly
 
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283aa74551e07db3b5a/e/4e0df338fa98ac41a2ce23f7
 ### Image
-
+![197803001-7f5f2958-1b07-49fa-b6a8-8ac5715567ee](https://user-images.githubusercontent.com/112981481/197854309-095b6066-ba5c-47bc-9284-3c3a79919775.gif)
 ### Reflection
 
 ---
 
-
-## Wheel
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
-
-
-## AxleCollarBearings
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
