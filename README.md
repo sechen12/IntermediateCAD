@@ -14,8 +14,7 @@
 In this assignment, me and my partner Anton created a beyblade with instructions.
 
 ### Evidence
-[ttps://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
-](https://cvilleschools.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283aa74551e07db3b5a/e/ecf2c186399eef371ef2bb3f)
+.onshape.com/documents/c702b1c81b7bdd8fc7db4835/w/c9675283aa74551e07db3b5a/e/ecf2c186399eef371ef2bb3f)
 ### Image
 
 ![SwingArm](https://user-images.githubusercontent.com/112981481/197858749-c0188a26-fbfb-49a0-88f4-b65734b466fb.png)
@@ -74,8 +73,5 @@ We created a swing arm in Onshape with instructions and following questions. We 
 ### Evidence
 https://cvilleschools.onshape.com/documents/9c866c69f03d5d302710f750/w/20e20d891a22cdb8a4d688cc/e/f2e2f8f8249436b23b88586a
 ### Image
-
+![SwingArm](https://user-images.githubusercontent.com/112981481/197858967-cc99ea0a-1968-4cb4-8165-aa673dac48f6.png)
 ### Reflection
-I learned different things while co-making the copter:
-* sketching (shortcut **shift-s**)
-* 
