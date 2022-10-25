@@ -77,3 +77,6 @@ https://cvilleschools.onshape.com/documents/9c866c69f03d5d302710f750/w/20e20d891
 ![SwingArm](https://user-images.githubusercontent.com/112981481/197858967-cc99ea0a-1968-4cb4-8165-aa673dac48f6.png)
 ### Reflection
 I'd learned that drawing the entire object before hand, then dimensioning the sketch with constraints and other tools makes the entire process faster. There are so many tools on Onshape that choosing the correct can be difficult. Using the simplest isn't always the easiest way to complete the assignment. Using a constraint to dimesion the sketch will save you from later trouble you're bound to get into.
+
+
+## Multi-Part Studio
