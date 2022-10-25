@@ -86,13 +86,12 @@ I'd learned that drawing the entire object before hand, then dimensioning the sk
 
 
 ### Description
-
+We used written instructions to create an object. We had the flexibility to choose how to dimension the object, and what parts we wanted to create first.
 ### Evidence
 https://cvilleschools.onshape.com/documents/d2bb11011fcdfdf5505ac909/w/2cb571cb9a4c5c345fc1531c/e/861727777836dc624088bd8c
 ### Image
 ![Mulit-PartStudio](https://user-images.githubusercontent.com/112981481/197860579-bd824d10-a0e2-44bf-94d4-dd757ea32778.png)
 ### Reflection
-
-
+I learned that you can constrain dimensions from one sketch to another extrude or sketch. This really helped me because then I wouldn't have to change each individual sketch, I only had to change one or two, and the entire object was dimensioned efficiently.
 
 
