@@ -95,3 +95,8 @@ https://cvilleschools.onshape.com/documents/d2bb11011fcdfdf5505ac909/w/2cb571cb9
 I learned that you can constrain dimensions from one sketch to another extrude or sketch. This really helped me because then I wouldn't have to change each individual sketch, I only had to change one or two, and the entire object was dimensioned efficiently.
 
 
+## Onshape Certification Reflection:
+
+
+### Description
+The score I recieved on the Onshape Certification was appropriate for the preperation I'd put into it. Although I worked on projects that were assigned to us in preperation for the test, thoroughly understanding how to design the products is crucial to learning how to use Onshape effectively. Something that would have helped is assignments to be completed outside of class, with the appropriate tools required. During the test, I struggled with staying calm when the answers didn't line up; learning test taking stradegies for Engineering tests specifically would have helped students understand how the test worked, and what-not.
